@@ -1,0 +1,1 @@
+{"event": "verbose", "uuid": "6df5890c-5530-42e5-96cb-512758f37077", "counter": 1, "stdout": "\u001b[1;35m[WARNING]: Collection community.general does not support Ansible version\u001b[0m", "start_line": 0, "end_line": 1, "runner_ident": "009f99a3-049b-49e0-8e71-7847fc996bcc", "created": "2024-02-08T07:53:35.030321"}
